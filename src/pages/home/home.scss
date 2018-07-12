@@ -1,0 +1,26 @@
+ ion-content{
+
+    background-image: url(../../assets/imgs/last.jpg);
+    background-repeat: no-repeat;
+     height:100;
+    background-position: center;
+     background-size:cover;
+ }
+
+.pa{
+    text-align: center;
+    color: blue;
+    font-size: 60px;
+    font-style: italic;
+}
+
+button[id="btn"]{
+
+    background-color: blue;
+    // margin-right: 120px;
+    // margin-left: 120px;
+    font-size: 20px;
+    top: 440px;
+
+
+}
